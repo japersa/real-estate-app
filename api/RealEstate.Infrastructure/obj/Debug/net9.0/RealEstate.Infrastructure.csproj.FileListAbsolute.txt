@@ -1,0 +1,17 @@
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/bin/Debug/net9.0/RealEstate.Infrastructure.deps.json
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/bin/Debug/net9.0/RealEstate.Infrastructure.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/bin/Debug/net9.0/RealEstate.Infrastructure.pdb
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/bin/Debug/net9.0/RealEstate.Application.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/bin/Debug/net9.0/RealEstate.Domain.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/bin/Debug/net9.0/RealEstate.Domain.pdb
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/bin/Debug/net9.0/RealEstate.Application.pdb
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEstate.Infrastructure.csproj.AssemblyReference.cache
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEstate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEstate.Infrastructure.AssemblyInfoInputs.cache
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEstate.Infrastructure.AssemblyInfo.cs
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEstate.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEsta.54FC12BD.Up2Date
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEstate.Infrastructure.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/refint/RealEstate.Infrastructure.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/RealEstate.Infrastructure.pdb
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Infrastructure/obj/Debug/net9.0/ref/RealEstate.Infrastructure.dll

@@ -1,0 +1,15 @@
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/bin/Debug/net9.0/RealEstate.Application.deps.json
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/bin/Debug/net9.0/RealEstate.Application.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/bin/Debug/net9.0/RealEstate.Application.pdb
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/bin/Debug/net9.0/RealEstate.Domain.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/bin/Debug/net9.0/RealEstate.Domain.pdb
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.csproj.AssemblyReference.cache
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.AssemblyInfoInputs.cache
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.AssemblyInfo.cs
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.csproj.CoreCompileInputs.cache
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEsta.ABD55878.Up2Date
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/refint/RealEstate.Application.dll
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/RealEstate.Application.pdb
+/Users/alvaroperez/Desktop/real-estate-app/api/RealEstate.Application/obj/Debug/net9.0/ref/RealEstate.Application.dll

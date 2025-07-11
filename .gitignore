@@ -1,0 +1,32 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment and personal configuration files
+.env
+.env.*
+*.user
+*.suo
+*.vs
+.vscode
+.idea
+
+# Backend build output (.NET)
+backend/bin/
+backend/obj/
+
+# Frontend build output (Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs and temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker-related files
+**/.dockerignore
+**/Dockerfile
+docker-compose.override.yml

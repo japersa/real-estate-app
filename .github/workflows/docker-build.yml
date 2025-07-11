@@ -1,0 +1,63 @@
+name: RealEstateApp CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  ci:
+    name: Build & Validate
+    runs-on: ubuntu-latest
+
+    services:
+      mongo:
+        image: mongo:6.0
+        ports:
+          - 27017:27017
+        options: >-
+          --health-cmd="mongosh --eval 'db.stats()'"
+          --health-interval=10s
+          --health-timeout=5s
+          --health-retries=5
+
+    env:
+      MONGO__CONNECTIONSTRING: mongodb://mongo:27017
+      ASPNETCORE_URLS: https://+:5241
+      JWT__KEY: dummy-key
+      VITE_BACKEND_URL: https://localhost:5241
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup .NET 9 SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '9.0.x'
+
+    - name: Restore api dependencies
+      working-directory: api
+      run: dotnet restore RealEstate.sln
+
+    - name: Build api
+      working-directory: api
+      run: dotnet build RealEstate.sln --configuration Release --no-restore
+
+    - name: Publish API
+      working-directory: api/RealEstate.API
+      run: dotnet publish -c Release -o ./publish
+
+    - name: Setup Node.js 20
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install frontend dependencies
+      working-directory: frontend
+      run: npm ci
+
+    - name: Build frontend (Vite)
+      working-directory: frontend
+      run: npm run build
